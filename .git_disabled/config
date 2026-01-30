@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/makpevwei/streamlit-rag-app-chroma-langchain.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	gk-last-accessed = 2026-01-28T19:51:11.246Z
+	gk-last-modified = 2026-01-28T19:51:11.246Z
